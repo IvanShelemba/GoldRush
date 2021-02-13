@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GoldRush_Core", "GoldRush_Core.csproj", "{2D341AAD-13D5-481C-992B-2840EDD2EF02}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GoldRush_CoreTests", "..\GoldRush_CoreTests\GoldRush_CoreTests.csproj", "{6F3EEB2A-D6E3-4441-9979-8AAB1F2287E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D341AAD-13D5-481C-992B-2840EDD2EF02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D341AAD-13D5-481C-992B-2840EDD2EF02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D341AAD-13D5-481C-992B-2840EDD2EF02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D341AAD-13D5-481C-992B-2840EDD2EF02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F3EEB2A-D6E3-4441-9979-8AAB1F2287E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F3EEB2A-D6E3-4441-9979-8AAB1F2287E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F3EEB2A-D6E3-4441-9979-8AAB1F2287E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F3EEB2A-D6E3-4441-9979-8AAB1F2287E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FD2068E-C23C-49F4-91AC-0D1C2C0FF09E}
+	EndGlobalSection
+EndGlobal
